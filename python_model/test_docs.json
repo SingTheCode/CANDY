@@ -1,0 +1,4675 @@
+[
+	[
+		[
+			"별/Noun",
+			"거지같다/Adjective",
+			"이유/Noun",
+			"로/Josa",
+			"헤어지자/Noun",
+			"네/Josa"
+		],
+		" 1"
+	],
+	[
+		[
+			"보내다/Verb",
+			"못/VerbPrefix",
+			"하다/Verb",
+			"전/Noun",
+			"하다/Verb",
+			"수/Noun",
+			"없다/Adjective",
+			"메시지/Noun"
+		],
+		" 0"
+	],
+	[
+		[
+			"드디어/Adverb",
+			"연애/Noun",
+			"에/Josa",
+			"종지부/Noun",
+			"를/Josa",
+			"찍다/Verb",
+			"같다/Adjective"
+		],
+		" 1"
+	],
+	[
+		[
+			"내/Noun",
+			"가/Josa",
+			"싫다/Adjective"
+		],
+		" 1"
+	],
+	[
+		[
+			"SNS/Alpha",
+			"시간/Noun",
+			"낭비/Noun",
+			"인데/Josa",
+			"자꾸/Noun",
+			"보다/Verb",
+			"되다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"뜬눈/Noun",
+			"으로/Josa",
+			"밤/Noun",
+			"을/Josa",
+			"지다/Verb",
+			"새우다/Verb"
+		],
+		" 0"
+	],
+	[
+		[
+			"미치다/Adjective",
+			"것/Noun",
+			"같다/Adjective"
+		],
+		" 0"
+	],
+	[
+		[
+			"과거/Noun",
+			"가/Josa",
+			"발목/Noun",
+			"을/Josa",
+			"잡다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"마음/Noun",
+			"이/Josa",
+			"어렵다/Adjective",
+			"들어오다/Verb"
+		],
+		" 0"
+	],
+	[
+		[
+			"무슨/Noun",
+			"죄/Noun",
+			"를/Josa",
+			"지다/Verb",
+			"이렇게/Adverb",
+			"빨리/Adverb",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"괜찮다/Adjective",
+			"척/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"아직도/Adverb",
+			"심장/Noun",
+			"이/Josa",
+			"뛰다/Verb",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"슬픔활용법/Noun",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"마음/Noun",
+			"비우기/Noun",
+			"가/Josa",
+			"너무/Adverb",
+			"힘들다/Adjective"
+		],
+		" 1"
+	],
+	[
+		[
+			"모처럼/Noun",
+			"생각나다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"마음/Noun",
+			"이/Josa",
+			"불안하다/Adjective",
+			"초조하다/Adjective",
+			"미치다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"얘/Noun",
+			"는/Josa",
+			"싸우다/Verb",
+			"하다/Verb",
+			"연락/Noun",
+			"이/Josa",
+			"안/VerbPrefix",
+			"돼다/Verb"
+		],
+		" 3"
+	],
+	[
+		[
+			"남다/Verb",
+			"너/Noun",
+			"의/Josa",
+			"빈자리/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"억울하다/Adjective",
+			"현실/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"살/Noun",
+			"고/Josa",
+			"싶다/Verb",
+			"./Punctuation"
+		],
+		" 1"
+	],
+	[
+		[
+			"보고/Noun",
+			"파/Noun"
+		],
+		" 1"
+	],
+	[
+		[
+			"순진하다/Adjective",
+			"죄인/Noun",
+			"가/Josa",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"언제/Noun",
+			"쯤/Suffix",
+			"괜찮다/Adjective",
+			"런/Noun",
+			"지/Josa",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"마지막/Noun",
+			"인가/Josa",
+			"보다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"새장/Noun",
+			"같다/Adjective",
+			"집/Noun"
+		],
+		" 1"
+	],
+	[
+		[
+			"새/Noun",
+			"남자/Noun",
+			"가/Josa",
+			"생기다/Verb",
+			"보다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"괘씸하다/Adjective",
+			"분하다/Adjective",
+			"너무/Adverb",
+			"그리다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"동거/Noun",
+			"하다/Verb",
+			"이별/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"만난/Noun",
+			"지/Josa",
+			"7년/Number",
+			"헤어지다/Verb",
+			"5일/Number",
+			"째/Foreign"
+		],
+		" 2"
+	],
+	[
+		[
+			"나/Noun",
+			"너/Noun",
+			"한테/Josa",
+			"다시/Noun",
+			"돌아가다/Verb",
+			"받다/Verb",
+			"??/Punctuation",
+			"라는/Josa",
+			"말/Noun",
+			"./Punctuation"
+		],
+		" 1"
+	],
+	[
+		[
+			"매/Modifier",
+			"일/Modifier",
+			"매일/Noun",
+			"눈물/Noun",
+			"로/Josa",
+			"보내다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"뜬금/Noun",
+			"시간/Noun",
+			"을/Josa",
+			"가지/Noun",
+			"자고/Noun",
+			"하다/Verb"
+		],
+		" 0"
+	],
+	[
+		[
+			"건강검진/Noun",
+			"하다/Verb",
+			"옴/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"살아가다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"어째서/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"나/Noun",
+			"는/Josa",
+			"너/Noun",
+			"를/Josa",
+			"거치다/Verb",
+			"간/Noun",
+			"수/Noun",
+			"많다/Adjective",
+			"남자/Noun",
+			"들/Suffix",
+			"중/Noun",
+			"한/Determiner",
+			"명/Noun",
+			"뿐이다/Adjective",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"마지막/Noun",
+			"작별/Noun",
+			"문자/Noun",
+			"를/Josa",
+			"보내다/Verb",
+			"?/Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"권태기/Noun",
+			"이별/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"사람/Noun",
+			"을/Josa",
+			"잊다/Verb",
+			"이렇게/Adverb",
+			"힘들다/Adjective",
+			"줄/Noun",
+			"이야/Josa"
+		],
+		" 2"
+	],
+	[
+		[
+			"산/Noun",
+			"넘다/Verb",
+			"산이/Noun",
+			"네/Josa",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"사랑/Noun",
+			"이라는/Josa",
+			"감정/Noun",
+			"차다/Verb",
+			"울다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"설마/Noun",
+			"하다/Verb",
+			"진짜/Noun",
+			"이별/Noun"
+		],
+		" 0"
+	],
+	[
+		[
+			"마음/Noun",
+			"정리/Noun",
+			"가/Josa",
+			"안/VerbPrefix",
+			"돼다/Verb",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"병장/Noun",
+			"인데/Josa",
+			"이별/Noun"
+		],
+		" 1"
+	],
+	[
+		[
+			"가족/Noun",
+			"이/Josa",
+			"누구/Noun",
+			"야/Josa",
+			"?/Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"내/Noun",
+			"자신/Noun",
+			"을/Josa",
+			"사랑/Noun",
+			"하라/Noun",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"가족/Noun",
+			"들/Suffix",
+			"이랑/Josa",
+			"어디/Noun",
+			"가지/Noun",
+			"?/Punctuation"
+		],
+		" 1"
+	],
+	[
+		[
+			"개/Noun",
+			"기름/Noun",
+			"끼다/Verb"
+		],
+		" 0"
+	],
+	[
+		[
+			"내/Determiner",
+			"가노/Noun",
+			"력/Suffix",
+			"해/Noun",
+			"보다/Verb",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"끝내다/Verb",
+			"맞다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"권태기/Noun",
+			"./Punctuation"
+		],
+		" 1"
+	],
+	[
+		[
+			"내/Noun",
+			"가/Josa",
+			"뭘/Noun",
+			"좋아하다/Adjective",
+			"잘/VerbPrefix",
+			"하다/Verb",
+			"모르다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"야/Exclamation",
+			"이/Determiner",
+			"겁나다/Verb",
+			"미우다/Verb",
+			"여자/Noun",
+			"야/Josa",
+			"!!/Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"몸/Noun",
+			"이/Josa",
+			"아프다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"PPL/Alpha",
+			"심하다/Adjective"
+		],
+		" 3"
+	],
+	[
+		[
+			"어떻다/Adjective",
+			"하다/Verb",
+			"여자친구/Noun",
+			"가/Josa",
+			"제/Noun",
+			"진심/Noun",
+			"을/Josa",
+			"알아주다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"밤/Noun",
+			"이/Determiner",
+			"오는/Modifier",
+			"게/Noun",
+			"오늘이/Noun",
+			"가다/Verb",
+			"무섭다/Adjective",
+			"힘드다/Adjective"
+		],
+		" 1"
+	],
+	[
+		[
+			"내/Noun",
+			"가/Josa",
+			"사랑/Noun",
+			"하다/Verb",
+			"사람/Noun"
+		],
+		" 1"
+	],
+	[
+		[
+			"못/Noun",
+			"놓다/Verb",
+			"있다/Adjective",
+			"나/Noun",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"괜/Noun",
+			"한/Josa",
+			"희망/Noun",
+			"은/Josa",
+			"더/Noun",
+			"크다/Verb",
+			"절망/Noun",
+			"을/Josa"
+		],
+		" 2"
+	],
+	[
+		[
+			"마음/Noun",
+			"이/Josa",
+			"떠나다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"같이/Adverb",
+			"하다/Verb",
+			"수/Noun",
+			"있다/Adjective",
+			"취미/Noun",
+			"생활/Noun",
+			"뭐/Noun",
+			"있다/Adjective"
+		],
+		" 0"
+	],
+	[
+		[
+			"끝나다/Verb",
+			"않다/Verb",
+			"겁/Noun",
+			"이나/Josa"
+		],
+		" 2"
+	],
+	[
+		[
+			"사진/Noun",
+			"을/Josa",
+			"보다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"드라마/Noun",
+			"보고/Noun",
+			"눈물나다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"어제/Noun",
+			"새벽/Noun",
+			"에/Josa",
+			"이별/Noun",
+			"하다/Verb",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"떠나가다/Verb",
+			"전여친/Noun",
+			"지나가다/Verb",
+			"보다/Verb",
+			"./Punctuation"
+		],
+		" 1"
+	],
+	[
+		[
+			"비/Noun",
+			"가/Josa",
+			"많이/Adverb",
+			"오/Noun",
+			"니까/Josa",
+			"./Punctuation",
+			"너/Noun",
+			"가/Josa",
+			"떠오르다/Verb",
+			"./Punctuation"
+		],
+		" 1"
+	],
+	[
+		[
+			"쓰다/Verb",
+			"쓸다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"갑자기/Noun",
+			"불편하다/Adjective",
+			"사이/Noun",
+			"가/Josa",
+			"되다/Verb",
+			"거/Noun",
+			"같다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"새/Modifier",
+			"출발/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"아직도/Adverb",
+			"기억/Noun",
+			"속/Noun",
+			"에/Josa",
+			"생생하다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"부모님/Noun",
+			"반대/Noun",
+			"로/Josa",
+			"헤어지다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"앞/Noun",
+			"이/Josa",
+			"캄캄하다/Adjective",
+			"ㅠ/KoreanParticle"
+		],
+		" 2"
+	],
+	[
+		[
+			"아/Exclamation",
+			"아른거리다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"어찌/Noun",
+			"하다/Verb",
+			"되다/Verb",
+			"?/Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"그녀/Noun",
+			"의/Josa",
+			"카톡/Noun",
+			"이/Josa",
+			"없어지다/Verb",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"두/Determiner",
+			"달/Noun",
+			"반/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"개념/Noun",
+			"도/Josa",
+			"놓다/Verb",
+			"옴/Noun"
+		],
+		" 3"
+	],
+	[
+		[
+			"어제/Noun",
+			"이별/Noun",
+			"을/Josa",
+			"하다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"머릿속/Noun",
+			"에서/Josa",
+			"계속/Noun",
+			"생각/Noun",
+			"이/Josa",
+			"나/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"뭐/Noun",
+			"인지/Josa",
+			"이제/Noun",
+			"헷갈리다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"미안하다/Adjective",
+			"모든/Noun",
+			"게/Josa",
+			"다/Adverb",
+			"미안/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"사랑/Noun",
+			"을/Josa",
+			"믿다/Verb",
+			"?/Punctuation"
+		],
+		" 0"
+	],
+	[
+		[
+			"마지막/Noun",
+			"이/Josa",
+			"되다/Verb",
+			"편지/Noun",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"덤덤하다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"매일/Noun",
+			"그녀/Noun",
+			"꿈/Noun",
+			"을/Josa",
+			"꾸다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"또/Noun",
+			"다시/Noun",
+			"악몽/Noun"
+		],
+		" 1"
+	],
+	[
+		[
+			"너무/Adverb",
+			"두렵다/Adjective",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"남자친구/Noun",
+			"가/Josa",
+			"이/Determiner",
+			"별/Modifier",
+			"준비/Noun",
+			"를/Josa",
+			"하다/Verb",
+			"것/Noun",
+			"같다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"망상/Noun",
+			"이제일/Noun",
+			"짜증나다/Adjective",
+			"미치다/Adjective",
+			"./Punctuation"
+		],
+		" 1"
+	],
+	[
+		[
+			"미안하다/Adjective",
+			"보고/Noun",
+			"싶다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"감정/Noun",
+			"이/Josa",
+			"쓰레기통/Noun",
+			"처럼/Josa",
+			"엉망/Noun",
+			"진창/Noun",
+			"이야/Josa"
+		],
+		" 3"
+	],
+	[
+		[
+			"상처/Noun",
+			"안/VerbPrefix",
+			"받다/Verb",
+			"보다/Verb",
+			"?/Punctuation"
+		],
+		" 1"
+	],
+	[
+		[
+			"따뜻하다/Adjective",
+			"봄/Noun",
+			"이/Josa",
+			"다시/Noun",
+			"오다/Verb",
+			"ㅎㅎ/KoreanParticle"
+		],
+		" 1"
+	],
+	[
+		[
+			"아직도/Adverb",
+			"남다/Verb",
+			"보다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"과거/Noun",
+			"에/Josa",
+			"얽매이다/Verb",
+			"있다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"너/Noun",
+			"한테/Josa",
+			"쓰다/Verb",
+			"편지/Noun"
+		],
+		" 1"
+	],
+	[
+		[
+			"감기/Noun",
+			"약/Noun",
+			"이/Josa",
+			"없다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"술/Noun",
+			"먹다/Verb",
+			"집앞/Noun",
+			"에/Josa",
+			"찾아오다/Verb",
+			"남자/Noun"
+		],
+		" 0"
+	],
+	[
+		[
+			"마지막/Noun",
+			"으로/Josa",
+			"만나다/Verb",
+			"오다/Verb",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"어떻다/Adjective",
+			"하다/Verb",
+			"하다/Verb",
+			"거니/Eomi"
+		],
+		" 2"
+	],
+	[
+		[
+			"비다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"궁금하다/Adjective",
+			"있다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"마음/Noun",
+			"먹다/Verb"
+		],
+		" 0"
+	],
+	[
+		[
+			"봄/Noun",
+			"의/Josa",
+			"계절/Noun",
+			"이/Josa",
+			"찾아오다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"동거/Noun",
+			"헤어지다/Verb",
+			"그/Noun",
+			"후/Noun"
+		],
+		" 1"
+	],
+	[
+		[
+			"아/Exclamation",
+			"!/Punctuation",
+			"어찌/Noun",
+			"하다/Verb",
+			"되다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"방금/Noun",
+			"헤어지다/Verb",
+			"오다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"맘/Noun",
+			"잡다/Verb",
+			"생각/Noun",
+			"하다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"마지막/Noun",
+			"이/Josa",
+			"겠다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"서로/Noun",
+			"위로/Noun",
+			"하다/Verb",
+			"함께/Adverb",
+			"극복/Noun",
+			"하다/Verb",
+			"사람/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"슬프다/Adjective",
+			"예감/Noun",
+			"대로/Josa",
+			"되어다/Verb",
+			"현실/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"미치다/Adjective"
+		],
+		" 1"
+	],
+	[
+		[
+			"다/Adverb",
+			"끝나다/Verb",
+			"./Punctuation"
+		],
+		" 0"
+	],
+	[
+		[
+			"넌/Noun",
+			"너무나도/Adverb",
+			"잘/VerbPrefix",
+			"지내다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"보고/Noun",
+			"야/Josa",
+			"말다/Verb",
+			"./Punctuation"
+		],
+		" 1"
+	],
+	[
+		[
+			"12시/Number",
+			"땡/Noun",
+			"!/Punctuation"
+		],
+		" 1"
+	],
+	[
+		[
+			"사진/Noun",
+			"을/Josa",
+			"지우다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"마지막/Noun",
+			"그녀/Noun",
+			"를/Josa",
+			"만나다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"아무/Noun",
+			"것/Noun",
+			"도/Josa",
+			"하다/Verb",
+			"수/Noun",
+			"없다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"갑자기/Noun",
+			"눈물/Noun",
+			"나/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"솔로/Noun",
+			"7/Number",
+			"개월/Noun",
+			"넘어가다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"사랑/Noun",
+			"이란/Josa",
+			"거/Noun",
+			"하다/Verb",
+			"받다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"사랑/Noun",
+			"은/Josa",
+			"가슴/Noun",
+			"으로/Josa",
+			"이별/Noun",
+			"은/Josa",
+			"머리/Noun",
+			"로/Josa"
+		],
+		" 2"
+	],
+	[
+		[
+			"보다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"밥/Noun",
+			"먹기/Noun",
+			"차다/Verb",
+			"힘드다/Adjective"
+		],
+		" 1"
+	],
+	[
+		[
+			"나약하다/Adjective",
+			"생각/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"아직/Adverb",
+			"그립다/Adjective",
+			"그대/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"속이다/Verb",
+			"후련하다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"노래/Noun",
+			"가/Josa",
+			"정말/Noun",
+			"가슴/Noun",
+			"이/Josa",
+			"찢어지다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"두/Determiner",
+			"달전/Noun",
+			"에/Josa",
+			"잠수/Noun",
+			"이별/Noun",
+			"하다/Verb",
+			"전남친/Noun",
+			"이/Josa",
+			"연락/Noun",
+			"하다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"기분/Noun",
+			"차다/Verb",
+			"더럽다/Adjective"
+		],
+		" 3"
+	],
+	[
+		[
+			"기다리다/Verb",
+			"계시다/Adjective",
+			"분들/Suffix",
+			"./Punctuation"
+		],
+		" 0"
+	],
+	[
+		[
+			"벌써/Noun",
+			"15일/Number",
+			"이나/Foreign"
+		],
+		" 2"
+	],
+	[
+		[
+			"수/Modifier",
+			"신/Modifier",
+			"차단/Noun",
+			"의/Josa",
+			"의미/Noun"
+		],
+		" 3"
+	],
+	[
+		[
+			"시간/Noun",
+			"이/Josa",
+			"지나다/Verb",
+			"더/Noun",
+			"보다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"매일/Noun",
+			"그리다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"나/Noun",
+			"잘/VerbPrefix",
+			"하다/Verb",
+			"거/Noun",
+			"맞다/Verb",
+			"?/Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"시간/Noun",
+			"이/Josa",
+			"갈수록/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"내일/Noun",
+			"로/Josa",
+			"꼭/Noun",
+			"헤어지다/Verb",
+			"1년/Number",
+			"째네/Foreign"
+		],
+		" 1"
+	],
+	[
+		[
+			"미치다/Adjective"
+		],
+		" 1"
+	],
+	[
+		[
+			"그녀/Noun",
+			"의/Josa",
+			"행복/Noun",
+			"을/Josa",
+			"진심/Noun",
+			"으로/Josa",
+			"빌다/Verb",
+			"날/Noun",
+			"이/Josa",
+			"오다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"둘/Noun",
+			"만의/Josa",
+			"기념일/Noun",
+			"너무/Adverb",
+			"힘드다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"꿈/Noun",
+			"에서라도/Josa",
+			"보다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"바람나다/Verb",
+			"알/Noun",
+			"고/Josa",
+			"헤어지다/Verb",
+			"./Punctuation"
+		],
+		" 1"
+	],
+	[
+		[
+			"다시/Noun",
+			"재회/Noun",
+			"하다/Verb",
+			"경우/Noun",
+			"는/Josa",
+			"기분/Noun",
+			"어떻다/Adjective",
+			"?/Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"매일/Noun",
+			"술/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"난/Noun",
+			"왜/Noun",
+			"이리/Adverb",
+			"바보/Noun",
+			"같다/Adjective",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"건물/Noun",
+			"주/Noun",
+			"되다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"그/Noun",
+			"사람/Noun",
+			"이/Josa",
+			"차다/Verb",
+			"그립다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"어떻다/Adjective",
+			"하다/Verb",
+			"되다/Verb",
+			"?/Punctuation"
+		],
+		" 0"
+	],
+	[
+		[
+			"매번/Noun",
+			"글/Noun",
+			"쓸다/Verb",
+			"때/Noun",
+			"마다/Josa",
+			"상황/Noun",
+			"설명/Noun",
+			"하/Suffix",
+			"라고/Josa",
+			"해/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"날씨/Noun",
+			"가/Josa",
+			"차다/Verb",
+			"안/VerbPrefix",
+			"도와주다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"슬프다/Adjective",
+			"솔직하다/Adjective",
+			"안되다/Adjective",
+			"건가/Noun",
+			"?/Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"돌아오다/Verb",
+			"생각/Noun",
+			"부터/Josa",
+			"하다/Verb",
+			"말걸/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"보다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"어떻다/Adjective",
+			"나/Noun",
+			"한테/Josa",
+			"이르다/Verb"
+		],
+		" 3"
+	],
+	[
+		[
+			"아침/Noun",
+			"에/Josa",
+			"눈/Noun",
+			"뜨다/Verb",
+			"힘들다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"마지막/Noun",
+			"데이트/Noun",
+			"하다/Verb",
+			"이/Noun",
+			"사람/Noun",
+			"이/Josa",
+			"미우다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"끝/Noun",
+			"인거/Josa",
+			"겠다/Verb",
+			"?/Punctuation"
+		],
+		" 1"
+	],
+	[
+		[
+			"너무/Adverb",
+			"너무/Adverb",
+			"억울하다/Adjective",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"날씨/Noun",
+			"가/Josa",
+			"좋다/Adjective"
+		],
+		" 1"
+	],
+	[
+		[
+			"사랑/Noun",
+			"하다/Verb",
+			"때문/Noun",
+			"에/Josa",
+			"떠나다/Verb",
+			"말/Noun",
+			"?/Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"독하다/Adjective",
+			"불면증/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"반/Noun",
+			"정도/Noun",
+			"는/Josa",
+			"정리/Noun",
+			"가/Josa",
+			"되다/Verb",
+			"것/Noun",
+			"같다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"사랑/Noun",
+			"에/Josa",
+			"힘들다/Adjective",
+			"하다/Verb",
+			"님들/Noun",
+			"께/Josa",
+			"같이/Adverb",
+			"공유/Noun",
+			"하다/Verb",
+			"하다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"나/Noun",
+			"만의/Josa",
+			"착각/Noun",
+			"이다/Verb",
+			"보다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"놀다/Verb",
+			"줄/Noun",
+			"사람/Noun",
+			"이/Josa",
+			"없다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"그녀/Noun",
+			"와/Josa",
+			"운동/Noun",
+			"하다/Verb",
+			"헬스장/Noun",
+			"짐/Noun",
+			"정리/Noun",
+			"하다/Verb",
+			"가다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"서로/Noun",
+			"의/Josa",
+			"조각/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"다정하다/Adjective",
+			"너/Noun",
+			"는/Josa",
+			"이미/Adverb",
+			"죽다/Verb",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"같이/Adverb",
+			"수영장/Noun",
+			"가기/Noun",
+			"로/Josa",
+			"하다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"기억/Noun",
+			"하고/Josa",
+			"싶다/Verb",
+			"않다/Verb",
+			"기억/Noun",
+			"!/Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"마지막/Noun",
+			"이다/Adjective",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"상담/Noun",
+			"좀/Noun",
+			"해주다/Verb",
+			"남자/Noun",
+			"이다/Adjective",
+			"./Punctuation"
+		],
+		" 0"
+	],
+	[
+		[
+			"간접흡연/Noun",
+			"싫다/Adjective"
+		],
+		" 3"
+	],
+	[
+		[
+			"미치다/Adjective",
+			"힘들다/Adjective",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"너/Noun",
+			"가/Josa",
+			"생각나다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"꿈/Noun",
+			"이라는/Josa",
+			"무방비/Noun",
+			"상태/Noun"
+		],
+		" 1"
+	],
+	[
+		[
+			"니/Noun",
+			"가/Josa",
+			"이/Noun",
+			"글/Noun",
+			"을/Josa",
+			"보다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"사랑/Noun",
+			"차다/Verb",
+			"어렵다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"내/Noun",
+			"가/Josa",
+			"예민하다/Adjective",
+			"걸다/Verb",
+			"?/Punctuation"
+		],
+		" 1"
+	],
+	[
+		[
+			"답답하다/Adjective",
+			"마음/Noun",
+			"만/Josa",
+			"들다/Verb",
+			"내/Noun",
+			"사랑/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"어느덧다/Adjective",
+			"헤어지다/Verb",
+			"4/Number",
+			"개월/Noun",
+			"이/Josa",
+			"돼다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"심장/Noun",
+			"이/Josa",
+			"터지다/Verb",
+			"같다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"술/Noun",
+			"기운/Noun",
+			"을/Josa",
+			"빌리다/Verb",
+			"무작정/Noun",
+			"찾아가다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"그리움/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"기억/Noun",
+			"이/Josa",
+			"불쑥/Noun",
+			"날/Noun",
+			"때/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"어제/Noun",
+			"오늘/Noun",
+			"멘탈/Noun",
+			"이/Josa",
+			"나가다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"쓰다/Verb",
+			"또/Noun",
+			"지우다/Verb",
+			"또/Noun",
+			"쓰다/Verb"
+		],
+		" 3"
+	],
+	[
+		[
+			"아무/Modifier",
+			"것/Noun",
+			"도/Josa",
+			"아니다/Adjective",
+			"글/Noun",
+			"에/Josa",
+			"화가/Noun",
+			"치밀다/Verb",
+			"오르다/Verb"
+		],
+		" 3"
+	],
+	[
+		[
+			"아름답다/Adjective",
+			"헤어지다/Verb",
+			"회사/Noun",
+			"그만두다/Verb",
+			"전남친/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"맘/Noun",
+			"이/Josa",
+			"떠나다/Verb",
+			"맞다/Verb",
+			"같다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"솔로/Noun",
+			"들/Suffix",
+			"만/Josa",
+			"이해/Noun",
+			"ㅠ/KoreanParticle"
+		],
+		" 2"
+	],
+	[
+		[
+			"사람/Noun",
+			"마음/Noun",
+			"이란/Noun",
+			"게/Josa",
+			"차다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"사진/Noun",
+			"을/Josa",
+			"지우다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"밤/Noun",
+			"만/Josa",
+			"되다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"그냥/Noun",
+			"답답하다/Adjective",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"남편/Noun",
+			"과/Josa",
+			"별거/Noun",
+			"한지/Noun",
+			"3/Number",
+			"달/Noun",
+			"되어다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"개/Noun",
+			"같다/Adjective",
+			"상황/Noun"
+		],
+		" 3"
+	],
+	[
+		[
+			"못/VerbPrefix",
+			"참다/Verb",
+			"문자/Noun",
+			"보내다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"사람/Noun",
+			"이/Josa",
+			"변하다/Adjective",
+			"?/Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"보고/Noun",
+			"파/Noun",
+			"보다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"밤/Noun",
+			"마다/Josa",
+			"미치다/Adjective"
+		],
+		" 1"
+	],
+	[
+		[
+			"괜찮다/Adjective",
+			"줄/Noun",
+			"알다/Verb",
+			"./Punctuation"
+		],
+		" 1"
+	],
+	[
+		[
+			"소화도/Noun",
+			"안되다/Adjective",
+			"가슴/Noun",
+			"하다/Verb",
+			"켜다/Verb",
+			"응어리/Noun",
+			"가/Josa",
+			"있다/Adjective",
+			"거/Noun",
+			"같다/Adjective",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"기대하다/Adjective",
+			"마르다/Adjective",
+			"./Punctuation"
+		],
+		" 0"
+	],
+	[
+		[
+			"뭐라다/Verb",
+			"하다/Verb",
+			"살다/Verb",
+			"같다/Adjective",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"남자친구/Noun",
+			"의/Josa",
+			"말/Noun",
+			"뜻/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"그렇다/Adjective",
+			"여자/Noun",
+			"가/Josa",
+			"있다/Adjective",
+			"잊혀지다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"너무/Adverb",
+			"힘들다/Adjective",
+			"죽다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"SNS/Alpha",
+			"시간/Noun",
+			"낭비/Noun",
+			"인/Josa",
+			"거/Noun",
+			"알다/Verb",
+			"매일/Noun",
+			"하다/Verb",
+			"중/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"몸/Noun",
+			"이/Josa",
+			"아프다/Adjective",
+			"더/Noun",
+			"힘드다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"나/Noun",
+			"정말/Noun",
+			"무/Noun",
+			"뎌/Modifier",
+			"지고/Noun",
+			"있다/Adjective",
+			"보다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"아직도/Adverb",
+			"잊다/Verb",
+			"못/VerbPrefix",
+			"하다/Verb",
+			"보다/Verb"
+		],
+		" 3"
+	],
+	[
+		[
+			"괜찮다/Adjective",
+			"줄/Noun",
+			"알다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"양다리/Noun",
+			"?/Punctuation",
+			"어장/Noun",
+			"관리/Noun",
+			"?/Punctuation"
+		],
+		" 3"
+	],
+	[
+		[
+			"공허하다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"글/Noun",
+			"을/Josa",
+			"쓰다/Verb",
+			"되다/Verb"
+		],
+		" 0"
+	],
+	[
+		[
+			"모든/Noun",
+			"게/Josa",
+			"니/Modifier",
+			"멋대로/Noun"
+		],
+		" 1"
+	],
+	[
+		[
+			"남동생/Noun",
+			"한테/Josa",
+			"자꾸/Noun",
+			"화/Noun",
+			"내다/Verb",
+			"되다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"새벽/Noun",
+			"에/Josa",
+			"전화/Noun",
+			"가/Josa",
+			"오다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"믿다/Verb",
+			"내/Noun",
+			"가/Josa",
+			"바보/Noun",
+			"지/Josa"
+		],
+		" 1"
+	],
+	[
+		[
+			"몸/Noun",
+			"에서/Josa",
+			"멀어지다/Verb",
+			"맘/Noun",
+			"에서도/Josa",
+			"멀어지다/Verb",
+			"./Punctuation"
+		],
+		" 1"
+	],
+	[
+		[
+			"배신/Noun",
+			"맞다/Verb",
+			"같다/Adjective"
+		],
+		" 3"
+	],
+	[
+		[
+			"감정/Noun",
+			"컨트롤/Noun",
+			"이/Josa",
+			"안/VerbPrefix",
+			"돼다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"불금/Noun",
+			"이네/Josa"
+		],
+		" 2"
+	],
+	[
+		[
+			"어제/Noun",
+			"새벽/Noun",
+			"에/Josa",
+			"그녀/Noun",
+			"에게/Josa",
+			"전화/Noun",
+			"가/Josa",
+			"오다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"나르다/Verb",
+			"선택/Noun",
+			"의/Josa",
+			"기/Modifier",
+			"로/Noun",
+			"에/Josa",
+			"놓이다/Verb",
+			"않다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"생각/Noun",
+			"하다/Verb",
+			"진짜/Noun",
+			"화나다/Verb",
+			"분하다/Adjective",
+			"3년/Number",
+			"을/Foreign",
+			"만나다/Verb",
+			"전화/Noun",
+			"로/Josa",
+			"이별/Noun",
+			"통보/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"또/Noun",
+			"하루/Noun",
+			"가/Josa",
+			"간다/Noun",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"어떻다/Adjective",
+			"놈/Noun",
+			"인지/Josa",
+			"확인/Noun",
+			"하고/Josa",
+			"싶다/Verb",
+			"이상하다/Adjective"
+		],
+		" 0"
+	],
+	[
+		[
+			"술/Noun",
+			"먹다/Verb",
+			"연락/Noun",
+			"도/Josa",
+			"없다/Adjective"
+		],
+		" 0"
+	],
+	[
+		[
+			"꿈/Noun",
+			"ㅠㅠ/KoreanParticle"
+		],
+		" 0"
+	],
+	[
+		[
+			"사람/Noun",
+			"일/Noun",
+			"죽다/Verb",
+			"법/Noun",
+			"은/Josa",
+			"없다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"두/Determiner",
+			"달이/Noun",
+			"되다/Verb",
+			"./Punctuation"
+		],
+		" 1"
+	],
+	[
+		[
+			"상대방/Noun",
+			"의/Josa",
+			"후/Noun",
+			"폭풍/Noun",
+			"따위/Noun",
+			"는/Josa",
+			"없다/Adjective"
+		],
+		" 0"
+	],
+	[
+		[
+			"남친/Noun",
+			"과/Josa",
+			"헤어지다/Verb",
+			"12일/Number",
+			"째/Foreign",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"어젯밤/Noun",
+			"에/Josa",
+			"판도라/Noun",
+			"의/Josa",
+			"상자/Noun",
+			"를/Josa",
+			"열다/Verb",
+			"버리다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"그냥/Noun",
+			"./Punctuation",
+			"너/Noun",
+			"와/Josa",
+			"말/Noun",
+			"한마디/Noun",
+			"섞다/Verb",
+			"너/Noun",
+			"와의/Josa",
+			"인연/Noun",
+			"에/Josa",
+			"고맙다/Adjective"
+		],
+		" 1"
+	],
+	[
+		[
+			"내다/Verb",
+			"전화/Noun",
+			"라도/Josa",
+			"해주다/Verb",
+			"좋다/Adjective",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"과연/Noun",
+			"사랑/Noun",
+			"이/Josa",
+			"이다/Verb",
+			"?/Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"어쩔/Adverb",
+			"수/Noun",
+			"없다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"아직도/Adverb",
+			"적응/Noun",
+			"이/Josa",
+			"안되다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"로맨스/Noun",
+			"는/Josa",
+			"없다/Adjective"
+		],
+		" 0"
+	],
+	[
+		[
+			"새벽/Noun",
+			"에/Josa",
+			"울다/Verb",
+			"지치다/Verb",
+			"신/Modifier",
+			"천/Modifier",
+			"에나/Noun",
+			"와/Josa",
+			"지금/Noun",
+			"까지/Josa",
+			"있다/Adjective"
+		],
+		" 0"
+	],
+	[
+		[
+			"싸구려/Noun",
+			"인생/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"봄/Noun",
+			"이라서/Josa",
+			"더욱/Noun",
+			"그립다/Adjective",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"바람/Noun",
+			"피지/Noun",
+			"마/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"새벽/Noun",
+			"3시/Number"
+		],
+		" 1"
+	],
+	[
+		[
+			"밑바닥/Noun",
+			"까지/Josa",
+			"보다/Verb",
+			"속/Noun",
+			"은/Josa",
+			"휴련하/Noun",
+			"네/Josa"
+		],
+		" 2"
+	],
+	[
+		[
+			"보다/Verb",
+			"사무치다/Verb",
+			"때/Noun"
+		],
+		" 1"
+	],
+	[
+		[
+			"술/Noun",
+			"을/Josa",
+			"마시다/Verb",
+			"더/Noun",
+			"생각나다/Verb",
+			"날다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"끌다/Verb",
+			"버리다/Verb",
+			"인연/Noun",
+			"의/Josa",
+			"고리/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"멀어지다/Verb",
+			"길/Noun",
+			"./Punctuation"
+		],
+		" 1"
+	],
+	[
+		[
+			"머/Noun",
+			"하다/Verb",
+			"?/Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"기다리다/Verb",
+			"답/Noun",
+			"이다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"그냥/Noun",
+			"무작정/Noun",
+			"그녀/Noun",
+			"집/Noun",
+			"에/Josa",
+			"가다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"남자/Noun",
+			"들/Suffix",
+			"에게/Josa",
+			"말/Noun",
+			"못/VerbPrefix",
+			"하다/Verb",
+			"여자/Noun",
+			"들/Suffix",
+			"의/Josa",
+			"이별/Noun",
+			"세/Modifier",
+			"가지/Noun",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"생각/Noun",
+			"하다/Verb",
+			"시간/Noun",
+			"을/Josa",
+			"갖다/Verb",
+			"그녀/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"애인/Noun",
+			"이/Josa",
+			"생기다/Verb",
+			"./Punctuation"
+		],
+		" 1"
+	],
+	[
+		[
+			"새롭다/Adjective",
+			"시작/Noun",
+			"하다/Verb",
+			"하다/Verb",
+			"./Punctuation"
+		],
+		" 0"
+	],
+	[
+		[
+			"마지막/Noun",
+			"문자/Noun",
+			"를/Josa",
+			"보/Noun",
+			"내버리다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"너/Noun",
+			"랑/Josa",
+			"나/Noun",
+			"는/Josa",
+			"안되다/Adjective",
+			"걸다/Verb",
+			"?/Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"어찌/Noun",
+			"하다/Verb",
+			"하다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"복잡하다/Adjective",
+			"./Punctuation",
+			"이/Determiner",
+			"거/Noun",
+			"어떻다/Adjective",
+			"생각/Noun",
+			"하다/Verb",
+			"되다/Verb",
+			"?/Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"마지막/Noun",
+			"선물/Noun",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"문득/Noun",
+			"문득/Noun",
+			"보다/Verb"
+		],
+		" 0"
+	],
+	[
+		[
+			"끝/Noun",
+			"까지/Josa",
+			"절/Noun",
+			"갖다/Verb",
+			"놀다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"기다/Verb",
+			"여정/Noun",
+			"끝/Noun",
+			"에/Josa",
+			"헤어지다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"바쁘다/Adjective",
+			"살다/Verb",
+			"나쁘다/Adjective",
+			"않다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"변명/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"가족/Noun",
+			"있다/Adjective",
+			"?/Punctuation"
+		],
+		" 1"
+	],
+	[
+		[
+			"건강/Noun",
+			"빨리/Adverb",
+			"회복하다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"아직도/Adverb",
+			"헷갈리다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"그냥/Noun",
+			"가슴/Noun",
+			"이/Josa",
+			"아프다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"꼭/Noun",
+			"아프다/Adjective",
+			"하다/Verb",
+			"정량/Noun",
+			"이/Josa",
+			"있다/Adjective",
+			"것/Noun",
+			"같다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"다른/Noun",
+			"사람/Noun",
+			"들/Suffix",
+			"에/Josa",
+			"비다/Verb",
+			"만남/Noun",
+			"은/Josa",
+			"짧다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"아직도/Adverb",
+			"./Punctuation",
+			"아직/Adverb",
+			"이다/Verb",
+			"./Punctuation"
+		],
+		" 3"
+	],
+	[
+		[
+			"아무리/Adverb",
+			"꽉/Noun",
+			"붙들다/Verb",
+			"무너지다/Verb",
+			"한순간/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"붙잡다/Verb",
+			"일주일/Noun",
+			"만에/Josa",
+			"연락/Noun",
+			"오다/Verb",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"그/Determiner",
+			"말/Noun",
+			"하다/Verb",
+			"말걸/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"시간/Noun",
+			"갖다/Verb",
+			"거/Noun"
+		],
+		" 0"
+	],
+	[
+		[
+			"아침/Noun",
+			"이/Josa",
+			"젤/Noun",
+			"힘드다/Adjective"
+		],
+		" 0"
+	],
+	[
+		[
+			"다가오다/Verb",
+			"이별/Noun"
+		],
+		" 1"
+	],
+	[
+		[
+			"너무/Adverb",
+			"힘들다/Adjective",
+			"정말/Noun",
+			"너무/Adverb",
+			"힘들다/Adjective"
+		],
+		" 1"
+	],
+	[
+		[
+			"아직/Adverb",
+			"준비/Noun",
+			"가/Josa",
+			"안/VerbPrefix",
+			"돼다/Verb",
+			"./Punctuation"
+		],
+		" 0"
+	],
+	[
+		[
+			"어떻다/Adjective",
+			"맘/Noun",
+			"정리/Noun",
+			"를/Josa",
+			"하다/Verb",
+			"?/Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"내/Noun",
+			"마음/Noun",
+			"과/Josa",
+			"머리/Noun",
+			"가/Josa",
+			"이해/Noun",
+			"가/Josa",
+			"안/VerbPrefix",
+			"가다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"문득/Noun",
+			"달력/Noun",
+			"을/Josa",
+			"보다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"두/Determiner",
+			"번/Noun",
+			"다시다/Verb",
+			"마주/Noun",
+			"치고/Josa",
+			"싶다/Verb",
+			"않다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"가족/Noun",
+			"들/Suffix",
+			"이랑/Josa",
+			"서먹하다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"아련하다/Adjective",
+			"조금씩/Adverb",
+			"잊다/Verb",
+			"되다/Verb",
+			"보다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"사람/Noun",
+			"을/Josa",
+			"잊다/Verb",
+			"것/Noun",
+			"에/Josa",
+			"대한/Noun",
+			"모순/Noun"
+		],
+		" 1"
+	],
+	[
+		[
+			"사랑/Noun",
+			"은/Josa",
+			"찾아가다/Verb",
+			"것/Noun",
+			"이다/Verb",
+			"./Punctuation",
+			"사랑/Noun",
+			"은/Josa",
+			"찾아오다/Verb",
+			"것/Noun",
+			"이다/Verb",
+			"!/Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"많이/Adverb",
+			"사랑/Noun",
+			"하다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"사랑/Noun",
+			"차다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"너무/Adverb",
+			"너무/Adverb",
+			"힘드다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"새해/Noun",
+			"부터는/Josa",
+			"당신/Noun",
+			"생각/Noun",
+			"안/VerbPrefix",
+			"하다/Verb",
+			"하다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"같이/Adverb",
+			"피/Noun",
+			"씨방/Noun",
+			"가다/Verb",
+			"해보다/Verb",
+			"?/Punctuation"
+		],
+		" 0"
+	],
+	[
+		[
+			"미치다/Adjective",
+			"보다/Verb",
+			"./Punctuation"
+		],
+		" 1"
+	],
+	[
+		[
+			"분노/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"사다/Verb",
+			"시간/Noun",
+			"이/Josa",
+			"흐르다/Verb"
+		],
+		" 0"
+	],
+	[
+		[
+			"마지막/Noun",
+			"으로/Josa",
+			"얼굴/Noun",
+			"보고/Noun",
+			"정리/Noun",
+			"하다/Verb",
+			"하다/Verb",
+			"그게/Noun",
+			"안/VerbPrefix",
+			"돼다/Verb",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"같이/Adverb",
+			"게임/Noun",
+			"하다/Verb",
+			"해도/Noun",
+			"되다/Verb",
+			"?/Punctuation"
+		],
+		" 0"
+	],
+	[
+		[
+			"답답하다/Adjective",
+			"./Punctuation",
+			"뒤/Noun",
+			"숭숭/Noun",
+			"하고/Josa"
+		],
+		" 2"
+	],
+	[
+		[
+			"너무/Adverb",
+			"우울하다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"그녀/Noun",
+			"가/Josa",
+			"꿈/Noun",
+			"에/Josa",
+			"나오다/Verb",
+			"다시/Noun",
+			"만나다/Verb",
+			"싶다/Verb",
+			"하다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"마지막/Noun",
+			"정리/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"생각/Noun",
+			"을/Josa",
+			"고치다/Verb",
+			"먹다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"문득/Noun",
+			"듣다/Verb",
+			"고프다/Adjective",
+			"노래/Noun",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"끝/Noun",
+			"인가/Josa",
+			"?/Punctuation"
+		],
+		" 1"
+	],
+	[
+		[
+			"부디/Noun",
+			"돌아오다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"또/Noun",
+			"다시/Noun",
+			"이별/Noun",
+			"이다/Adjective",
+			"./Punctuation"
+		],
+		" 1"
+	],
+	[
+		[
+			"밤새/Noun",
+			"술/Noun",
+			"마시다/Verb",
+			"보다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"그리고/Conjunction",
+			"3년/Number",
+			"하고도/Foreign",
+			"5/Number",
+			"개월/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"끝/Noun",
+			"이/Josa",
+			"보이지/Noun",
+			"않다/Verb",
+			"터널/Noun",
+			"같다/Adjective",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"술/Noun",
+			"이/Josa",
+			"왠/Modifier",
+			"수지/Noun"
+		],
+		" 0"
+	],
+	[
+		[
+			"기다리다/Verb",
+			"지치다/Verb",
+			"해/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"사랑/Noun",
+			"은/Josa",
+			"부작용/Noun",
+			"과/Josa",
+			"휴/Exclamation",
+			"유증/Noun",
+			"을/Josa",
+			"길다/Adjective",
+			"남기다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"싸우다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"매일/Noun",
+			"계속/Noun",
+			"되다/Verb",
+			"악몽/Noun",
+			"과/Josa",
+			"불면증/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"목소리/Noun",
+			"듣다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"롤로/Noun",
+			"코스터/Noun",
+			"를/Josa",
+			"타다/Verb",
+			"마음/Noun"
+		],
+		" 0"
+	],
+	[
+		[
+			"많이/Adverb",
+			"약해지다/Verb",
+			"보다/Verb",
+			"./Punctuation",
+			"내/Determiner",
+			"맘/Noun",
+			"이/Josa",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"쉬다/Verb",
+			"않다/Verb",
+			"날/Noun",
+			"들/Suffix"
+		],
+		" 2"
+	],
+	[
+		[
+			"나르다/Verb",
+			"좀/Noun",
+			"놓다/Verb",
+			"달라/Noun",
+			"는/Josa",
+			"여친/Noun",
+			"./Punctuation",
+			"혹시/Noun",
+			"가능성/Noun",
+			"은/Josa",
+			"있다/Adjective",
+			"?/Punctuation",
+			"죽/Noun",
+			"을/Josa",
+			"것/Noun",
+			"같다/Adjective",
+			"./Punctuation"
+		],
+		" 1"
+	],
+	[
+		[
+			"상상/Noun",
+			"하다/Verb",
+			"미래엔/Noun",
+			"항상/Noun",
+			"그/Noun",
+			"가/Josa",
+			"있다/Adjective"
+		],
+		" 1"
+	],
+	[
+		[
+			"상황/Noun",
+			"이/Josa",
+			"힘들다/Adjective",
+			"헤어지다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"말/Noun",
+			"도/Josa",
+			"안되다/Adjective",
+			"이유/Noun",
+			"로/Josa",
+			"결별/Noun",
+			"선언/Noun",
+			"하다/Verb",
+			"그녀/Noun"
+		],
+		" 3"
+	],
+	[
+		[
+			"나/Noun",
+			"만/Josa",
+			"힘드다/Adjective",
+			"보다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"꿈/Noun",
+			"을/Josa",
+			"끄다/Verb",
+			"악몽/Noun",
+			"이네/Josa"
+		],
+		" 2"
+	],
+	[
+		[
+			"드디어/Adverb",
+			"처음/Noun",
+			"으로/Josa",
+			"꿈/Noun",
+			"에/Josa",
+			"나/Noun",
+			"외다/Verb",
+			"./Punctuation"
+		],
+		" 1"
+	],
+	[
+		[
+			"무/Noun",
+			"뎌/Modifier",
+			"진줄/Noun",
+			"알다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"바보/Noun",
+			"같다/Adjective",
+			"마음/Noun",
+			"./Punctuation"
+		],
+		" 1"
+	],
+	[
+		[
+			"아직/Adverb",
+			"멀다/Adjective",
+			"보다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"아직도/Adverb",
+			"잊혀지다/Verb",
+			"않다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"두번째/Noun",
+			"이별/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"안녕/Noun",
+			"을/Josa",
+			"고하/Noun",
+			"며/Josa"
+		],
+		" 2"
+	],
+	[
+		[
+			"부서지다/Verb",
+			"심장/Noun"
+		],
+		" 1"
+	],
+	[
+		[
+			"마지막/Noun",
+			"도전/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"머리/Noun",
+			"하다/Verb",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"가스/Noun",
+			"비/Noun",
+			"장난/Noun",
+			"아니다/Adjective"
+		],
+		" 3"
+	],
+	[
+		[
+			"어제/Noun",
+			"와/Josa",
+			"오늘/Noun",
+			"문득/Noun",
+			"문득/Noun",
+			"생각/Noun",
+			"에/Josa",
+			"눈물/Noun",
+			"을/Josa",
+			"흘리다/Verb",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"나다/Verb",
+			"놈/Noun",
+			"차다/Verb",
+			"신기하다/Adjective",
+			"놈/Noun",
+			"이다/Josa",
+			"./Punctuation"
+		],
+		" 1"
+	],
+	[
+		[
+			"믿음/Noun",
+			"이/Josa",
+			"깨지다/Verb",
+			"여자/Noun"
+		],
+		" 1"
+	],
+	[
+		[
+			"어떻다/Adjective",
+			"하다/Verb",
+			"좋다/Adjective",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"보다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"3/Number",
+			"박/Noun",
+			"4일/Number",
+			"정도/Noun",
+			"놀다/Verb",
+			"가다/Verb",
+			"싶다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"다른/Noun",
+			"사람/Noun",
+			"에게/Josa",
+			"뺏다/Verb",
+			"같다/Adjective",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"날씨/Noun",
+			"가/Josa",
+			"갑자기/Noun",
+			"추워지다/Verb",
+			"인지/Noun",
+			"./Punctuation"
+		],
+		" 1"
+	],
+	[
+		[
+			"너무/Adverb",
+			"힘드다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"또/Noun",
+			"다시/Noun",
+			"생각나다/Verb",
+			"그/Noun",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"어젯밤/Noun",
+			"꿈/Noun",
+			"에/Josa",
+			"나타나다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"기분/Noun",
+			"이/Josa",
+			"너덜너덜/Adverb"
+		],
+		" 2"
+	],
+	[
+		[
+			"그냥/Noun",
+			"써다/Verb",
+			"보다/Verb",
+			"./Punctuation"
+		],
+		" 0"
+	],
+	[
+		[
+			"어떻다/Adjective",
+			"하다/Verb",
+			"돼다/Verb",
+			"?/Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"그녀/Noun",
+			"의/Josa",
+			"카톡/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"거짓말/Noun",
+			"이/Josa",
+			"거짓말/Noun",
+			"을/Josa",
+			"낳다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"쏘다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"세상/Noun",
+			"젤/Noun",
+			"아프다/Adjective",
+			"이야기/Noun",
+			"는/Josa",
+			".!!/Punctuation"
+		],
+		" 1"
+	],
+	[
+		[
+			"3/Number",
+			"박/Noun",
+			"4일/Number",
+			"놀다/Verb",
+			"가다/Verb",
+			"싶다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"방안/Noun",
+			"가득하다/Adjective",
+			"그녀/Noun",
+			"의/Josa",
+			"흔적/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"기다/Verb",
+			"연애/Noun",
+			"의/Josa",
+			"끝/Noun",
+			"인가/Josa"
+		],
+		" 1"
+	],
+	[
+		[
+			"스스로/Noun",
+			"에게/Josa",
+			"너무/Adverb",
+			"인색하다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"아니다/Adjective",
+			"아니다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"너무/Adverb",
+			"힘드다/Adjective",
+			"네/Determiner",
+			"여/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"매번/Noun",
+			"왜/Noun",
+			"이렇게/Adverb",
+			"남다/Verb",
+			"후회/Noun",
+			"인지/Josa",
+			"모르다/Verb",
+			"ㅎㅎ/KoreanParticle"
+		],
+		" 2"
+	],
+	[
+		[
+			"그대/Noun",
+			"가/Josa",
+			"보고/Noun",
+			"파/Noun"
+		],
+		" 1"
+	],
+	[
+		[
+			"가끔/Noun",
+			"궁금하다/Adjective"
+		],
+		" 0"
+	],
+	[
+		[
+			"기억/Noun",
+			"이나/Josa",
+			"하다/Verb"
+		],
+		" 0"
+	],
+	[
+		[
+			"너무/Adverb",
+			"답답하다/Adjective",
+			"./Punctuation",
+			"어떤/Modifier",
+			"맘/Noun",
+			"이다/Verb",
+			"??/Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"두/Determiner",
+			"달/Noun",
+			"간/Suffix",
+			"에/Josa",
+			"연애/Noun",
+			"그리고/Conjunction",
+			"헤어지다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"며칠/Noun",
+			"잠잠하다/Adjective",
+			"또/Noun",
+			"흔들리다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"새롭다/Adjective",
+			"사랑/Noun",
+			"을/Josa",
+			"시작/Noun",
+			"하다/Verb",
+			"앞서서/Noun",
+			"./Punctuation"
+		],
+		" 1"
+	],
+	[
+		[
+			"감미롭다/Adjective",
+			"목소리/Noun",
+			"좋다/Adjective"
+		],
+		" 1"
+	],
+	[
+		[
+			"미련/Noun",
+			"이/Josa",
+			"남아/Noun",
+			"서/Josa"
+		],
+		" 0"
+	],
+	[
+		[
+			"너무/Adverb",
+			"힘/Noun",
+			"이듭/Noun",
+			"니/Noun",
+			"다/Josa"
+		],
+		" 2"
+	],
+	[
+		[
+			"나그네/Noun"
+		],
+		" 0"
+	],
+	[
+		[
+			"어제/Noun",
+			"이별/Noun",
+			"하고/Josa",
+			"맘/Noun",
+			"이/Josa",
+			"너무/Adverb",
+			"아프다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"어떻다/Adjective",
+			"받아들이다/Verb",
+			"야하다/Adjective",
+			"?/Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"억지로/Noun",
+			"붙이다/Verb",
+			"깨어지다/Verb",
+			"도자기/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"아프다/Adjective",
+			"연락/Noun",
+			"하다/Verb",
+			"싫다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"그동안/Noun",
+			"보내오다/Verb",
+			"시간/Noun",
+			"./Punctuation"
+		],
+		" 1"
+	],
+	[
+		[
+			"너무하다/Adjective",
+			"진짜/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"꿈/Noun",
+			"때문/Noun",
+			"에/Josa",
+			"새벽/Noun",
+			"에/Josa",
+			"깨다/Verb",
+			"네/Determiner",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"붙잡다/Verb",
+			"싶다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"받아들이다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"너무/Adverb",
+			"답답하다/Adjective",
+			"글/Noun",
+			"을/Josa",
+			"써다/Verb",
+			"보다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"미치다/Adjective",
+			"하/Exclamation"
+		],
+		" 2"
+	],
+	[
+		[
+			"나이/Noun",
+			"먹다/Verb",
+			"더/Noun",
+			"힘드다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"부럽다/Adjective"
+		],
+		" 1"
+	],
+	[
+		[
+			"답답하다/Adjective",
+			"마음/Noun"
+		],
+		" 1"
+	],
+	[
+		[
+			"다시/Noun",
+			"한번/Noun",
+			"또/Noun",
+			"./Punctuation"
+		],
+		" 1"
+	],
+	[
+		[
+			"상처/Noun",
+			"가/Josa",
+			"많다/Adjective",
+			"사람/Noun",
+			"을/Josa",
+			"사랑/Noun",
+			"하다/Verb",
+			"것/Noun",
+			"은/Josa",
+			"힘드다/Adjective",
+			"일/Noun",
+			"이다/Verb",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"걔/Noun",
+			"는/Josa",
+			"누굴/Noun",
+			"닮다/Verb",
+			"그렇다/Adjective",
+			"?/Punctuation"
+		],
+		" 3"
+	],
+	[
+		[
+			"반년/Noun",
+			"만에/Josa",
+			"연락/Noun",
+			"해봤다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"너무/Adverb",
+			"힘/Noun",
+			"이/Josa",
+			"들다/Verb",
+			"내/Noun",
+			"자신/Noun",
+			"이/Josa",
+			"한심하다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"미우다/Verb",
+			"감정/Noun",
+			"어떻다/Adjective",
+			"하나/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"눈물/Noun",
+			"이/Josa",
+			"멈추다/Verb",
+			"않다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"너무/Adverb",
+			"늦다/Verb",
+			"깨달음/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"가족/Noun",
+			"관계/Noun",
+			"알다/Verb",
+			"주다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"나/Noun",
+			"한테/Josa",
+			"지치다/Verb",
+			"떠나다/Verb",
+			"여자/Noun"
+		],
+		" 1"
+	],
+	[
+		[
+			"마음/Noun",
+			"이/Josa",
+			"꽉/Noun",
+			"막히다/Verb",
+			"해/Noun",
+			"요/Josa"
+		],
+		" 2"
+	],
+	[
+		[
+			"무섭다/Adjective"
+		],
+		" 0"
+	],
+	[
+		[
+			"심각하다/Adjective",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"만나다/Verb",
+			"오다/Verb",
+			"더/Noun",
+			"힘드다/Adjective"
+		],
+		" 1"
+	],
+	[
+		[
+			"공부/Noun",
+			"는/Josa",
+			"내/Noun",
+			"체질/Noun",
+			"이/Josa",
+			"아니다/Adjective",
+			"것/Noun",
+			"같다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"너/Noun",
+			"에게/Josa",
+			"쓴다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"나/Noun",
+			"만/Josa",
+			"그대/Noun",
+			"로다/Josa"
+		],
+		" 1"
+	],
+	[
+		[
+			"비/Noun",
+			"오는/Modifier",
+			"날/Noun"
+		],
+		" 0"
+	],
+	[
+		[
+			"몰래/Noun",
+			"sns/Alpha",
+			"훔치다/Verb",
+			"보고/Noun",
+			"있다/Adjective",
+			"나/Noun",
+			"한심하다/Adjective"
+		],
+		" 1"
+	],
+	[
+		[
+			"매일/Noun",
+			"술/Noun",
+			"먹기/Noun",
+			"로/Josa",
+			"하다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"난/Noun",
+			"잘/VerbPrefix",
+			"지내다/Verb",
+			"있다/Adjective"
+		],
+		" 1"
+	],
+	[
+		[
+			"마음/Noun",
+			"이/Josa",
+			"변하다/Adjective",
+			"이유/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"눈썹/Noun",
+			"문신/Noun",
+			"어떻다/Adjective",
+			"?/Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"물질/Noun",
+			"적/Suffix",
+			"인/Josa",
+			"정리/Noun",
+			"는/Josa",
+			"다/Adverb",
+			"하다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"누구/Noun",
+			"나/Josa",
+			"궁금하다/Adjective",
+			"법/Noun",
+			"한/Josa",
+			"이야기/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"언제/Noun",
+			"쯤/Suffix",
+			"예쁘다/Adjective",
+			"화장/Noun",
+			"잘/VerbPrefix",
+			"하다/Verb"
+		],
+		" 0"
+	],
+	[
+		[
+			"내다/Verb",
+			"놓다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"사랑/Noun",
+			"을/Josa",
+			"하다/Verb",
+			"뜨다/Verb",
+			"야만/Noun",
+			"하다/Verb",
+			"?/Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"마음/Noun",
+			"정리/Noun",
+			"중/Suffix"
+		],
+		" 2"
+	],
+	[
+		[
+			"뜻/Noun",
+			"밖에/Josa",
+			"연락/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"기숙사/Noun",
+			"괜찮다/Adjective"
+		],
+		" 0"
+	],
+	[
+		[
+			"그녀/Noun",
+			"는/Josa",
+			"이별/Noun",
+			"하다/Verb",
+			"전/Noun",
+			"아직/Adverb",
+			"슬프다/Adjective",
+			"진행중/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"아/Exclamation",
+			"휴/Exclamation",
+			"./Punctuation"
+		],
+		" 0"
+	],
+	[
+		[
+			"내/Noun",
+			"가/Josa",
+			"만난/Noun",
+			"최악/Noun",
+			"의/Josa",
+			"여자/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"내/Noun",
+			"가/Josa",
+			"너/Noun",
+			"의/Josa",
+			"곁/Noun",
+			"에/Josa",
+			"잠시/Noun",
+			"살다/Verb"
+		],
+		" 0"
+	],
+	[
+		[
+			"또/Noun",
+			"전화/Noun",
+			"안/VerbPrefix",
+			"받다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"새벽/Noun",
+			"에/Josa",
+			"그만/Adverb",
+			"깨다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"괜찮다/Adjective",
+			"줄/Noun",
+			"알다/Verb",
+			"남자/Noun",
+			"가/Josa",
+			"생기다/Verb",
+			"말/Noun",
+			"에/Josa",
+			"마음/Noun",
+			"이/Josa",
+			"또/Noun",
+			"다시/Noun",
+			"덜컥/Noun",
+			"내다/Verb",
+			"앉다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"아/Exclamation",
+			"괜히/Adverb",
+			"헤어지자/Noun",
+			"고/Josa",
+			"하다/Verb",
+			"보다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"술/Noun",
+			"이/Josa",
+			"보약/Noun",
+			"도/Josa",
+			"아니다/Adjective"
+		],
+		" 0"
+	],
+	[
+		[
+			"나/Noun",
+			"의/Josa",
+			"이별/Noun",
+			"이야기/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"너무/Adverb",
+			"보고/Noun",
+			"싶다/Verb",
+			"살리다/Verb",
+			"./Punctuation"
+		],
+		" 1"
+	],
+	[
+		[
+			"생각/Noun",
+			"안나/Noun",
+			"는/Josa",
+			"방법/Noun",
+			"없다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"심심/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"군인/Noun",
+			"이라/Josa",
+			"슬프다/Adjective",
+			"./Punctuation"
+		],
+		" 1"
+	],
+	[
+		[
+			"다시/Noun",
+			"보기/Noun",
+			"는/Josa",
+			"보다/Verb",
+			"결국/Adverb",
+			"은/Noun",
+			"./Punctuation"
+		],
+		" 1"
+	],
+	[
+		[
+			"시간/Noun",
+			"이/Josa",
+			"약/Noun",
+			"이기다/Verb",
+			"하다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"아오/Exclamation",
+			"그/Determiner",
+			"놈/Noun",
+			"에/Josa",
+			"꿈/Noun"
+		],
+		" 3"
+	],
+	[
+		[
+			"모든/Noun",
+			"노래/Noun",
+			"가사/Noun",
+			"는/Josa",
+			"내/Noun",
+			"맘/Noun",
+			"같다/Adjective"
+		],
+		" 0"
+	],
+	[
+		[
+			"알/Noun",
+			"고/Josa",
+			"보다/Verb",
+			"나/Noun",
+			"만/Josa",
+			"바보/Noun",
+			"네/Josa"
+		],
+		" 2"
+	],
+	[
+		[
+			"다음주/Noun",
+			"에/Josa",
+			"전/Noun",
+			"여자친구/Noun",
+			"를/Josa",
+			"보기/Noun",
+			"로/Josa",
+			"하다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"심장/Noun",
+			"이/Josa",
+			"주저/Noun",
+			"앉다/Verb",
+			"하다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"어제/Noun",
+			"만나다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"거짓말/Noun",
+			"을/Josa",
+			"하다/Verb",
+			"돼다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"미치다/Adjective",
+			"잡고/Noun",
+			"싶다/Verb",
+			"./Punctuation"
+		],
+		" 1"
+	],
+	[
+		[
+			"비참하다/Adjective",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"어떻다/Adjective",
+			"마음/Noun",
+			"이다/Verb",
+			"?/Punctuation"
+		],
+		" 0"
+	],
+	[
+		[
+			"생각/Noun",
+			"하다/Verb",
+			"시간/Noun",
+			"을/Josa",
+			"가다/Verb",
+			"그녀/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"내일/Noun",
+			"마지막/Noun",
+			"데이트/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"감정/Noun",
+			"컨트롤/Noun",
+			"을/Josa",
+			"못/VerbPrefix",
+			"하다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"공허하다/Adjective",
+			"마음/Noun"
+		],
+		" 1"
+	],
+	[
+		[
+			"너무/Adverb",
+			"우울하다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"나/Noun",
+			"는/Josa",
+			"차다/Verb",
+			"단순하다/Adjective"
+		],
+		" 1"
+	],
+	[
+		[
+			"아침/Noun",
+			"부터/Josa",
+			"답답하다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"어젯밤/Noun",
+			"./Punctuation",
+			"헤어지다/Verb",
+			"여자친구/Noun",
+			"에게/Josa",
+			"전화/Noun",
+			"가/Josa",
+			"오다/Verb",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"거짓말/Noun",
+			"하다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"갑자기/Noun",
+			"물어보다/Verb",
+			"당황/Noun",
+			"하다/Verb"
+		],
+		" 0"
+	],
+	[
+		[
+			"방금/Noun",
+			"너무/Adverb",
+			"울다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"나/Noun",
+			"의/Josa",
+			"자만/Noun",
+			"심/Noun",
+			"때문/Noun",
+			"에/Josa"
+		],
+		" 2"
+	],
+	[
+		[
+			"눈물/Noun",
+			"이/Josa",
+			"계속/Noun",
+			"나오다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"성급하다/Adjective",
+			"것/Noun",
+			"같다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"기억/Noun",
+			"을/Josa",
+			"지우다/Verb",
+			"싶다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"공허하다/Adjective",
+			"크다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"니/Noun",
+			"가/Josa",
+			"심다/Verb",
+			"준/Noun",
+			"버릇/Noun"
+		],
+		" 1"
+	],
+	[
+		[
+			"명절/Noun",
+			"연휴/Noun",
+			"막막하다/Adjective",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"개/Noun",
+			"졸리다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"내/Noun",
+			"사랑/Noun",
+			"의/Josa",
+			"끝/Noun",
+			"은/Josa",
+			"이별/Noun",
+			"이지만/Josa"
+		],
+		" 2"
+	],
+	[
+		[
+			"넌/Noun",
+			"충분하다/Adjective",
+			"좋다/Adjective",
+			"사람/Noun",
+			"이/Josa",
+			"이다/Verb"
+		],
+		" 2"
+	],
+	[
+		[
+			"씁쓸하다/Adjective",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"남자/Noun",
+			"못/VerbPrefix",
+			"믿다/Verb",
+			"./Punctuation"
+		],
+		" 1"
+	],
+	[
+		[
+			"마음/Noun",
+			"이/Josa",
+			"쫌/Noun",
+			"복잡하다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"내/Noun",
+			"가/Josa",
+			"왜/Noun",
+			"고집/Noun",
+			"부리다/Verb"
+		],
+		" 1"
+	],
+	[
+		[
+			"또/Noun",
+			"연락/Noun",
+			"을/Josa",
+			"해/Noun",
+			"버리다/Verb",
+			"./Punctuation"
+		],
+		" 2"
+	],
+	[
+		[
+			"나/Noun",
+			"의/Josa",
+			"약점/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"그/Noun",
+			"애하/Noun",
+			"고/Josa",
+			"다니다/Verb",
+			"곳/Noun",
+			"들/Suffix",
+			"찾아다니다/Verb",
+			"습관/Noun"
+		],
+		" 2"
+	],
+	[
+		[
+			"그래도/Adverb",
+			"아프다/Adjective"
+		],
+		" 2"
+	],
+	[
+		[
+			"괜찮다/Adjective",
+			"은주/Noun",
+			"알다/Verb"
+		],
+		" 1"
+	]
+]
